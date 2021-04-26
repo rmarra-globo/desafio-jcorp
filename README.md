@@ -1,6 +1,6 @@
 ## Desafio
 
-Precisamos desenvolver uma ferramento para criação de Cards de conteúdo esportivos (Insights).
+Precisamos desenvolver uma ferramenta para criação de Cards de conteúdo esportivos (Insights).
 
 ### 1. Interace HTTP REST API
 
@@ -41,10 +41,10 @@ Temos uma estimativa de milhares de criações de cards diariamente. A preocupa�
 
 ### 2. CLI para importação dos card
 
-Necessitamos importar os conteúdos do nosso sistema de dados esportivos para gerar nosso cards e precisamos de uma ferramenta para auxiliar essa tarefa.
+Necessitamos importar os conteúdos do nosso sistema de dados esportivos para gerar nossos cards e precisamos de uma ferramenta para auxiliar essa tarefa.
 
 
-Dado um csv de "cards", faça um CLI que importe os dados para o Insights.
+Dado um csv de "cards", faça um CLI (Command Line Interface) que importe os dados para o Insights.
 
 CSV exemplo:
 
@@ -60,7 +60,7 @@ Após termos nossa api desenvolvida, precisamos viabilizar uma interface fronten
 
 Nosso time de UX desenhou as [telas](https://www.sketch.com/s/3f91077d-21c0-4040-8fae-b89d69809d9b/a/Qb0ZjVe) e disponibilizou para você!
 
-Dê preferência a frameworks como o Vuetify para aproveitar os componentes já prontos.
+Dê preferência aos frameworks como o Vuetify para aproveitar os componentes já prontos.
 
 Clique no box com o botão de play para entrar no modo de navegação com os hotspots que indicam o fluxo.
 
